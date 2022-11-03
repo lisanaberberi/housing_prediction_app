@@ -1,5 +1,5 @@
 # housing_prediction_app
-[![Build Status](https://jenkins.indigo-datacloud.eu/buildStatus/icon?job=Pipeline-as-code/DEEP-OC-org/{% if cookiecutter.git_base_url == 'https://github.com/deephdc' %}{{ cookiecutter.repo_name }}{% else -%}UC-{{ cookiecutter.git_base_url.split('/')[-1] }}-{{ cookiecutter.repo_name }}{% endif %}/master)](https://jenkins.indigo-datacloud.eu/job/Pipeline-as-code/job/DEEP-OC-org/job/{% if cookiecutter.git_base_url == 'https://github.com/deephdc' %}{{ cookiecutter.repo_name }}{% else -%}UC-{{ cookiecutter.git_base_url.split('/')[-1] }}-{{ cookiecutter.repo_name }}{% endif %}/job/master)
+[![Build Status](https://jenkins.indigo-datacloud.eu/buildStatus/icon?job=Pipeline-as-code/DEEP-OC-org/{% if cookiecutter.git_base_url == 'https://github.com/deephdc' %}{{ cookiecutter.repo_name }}{% else -%}UC-{{ cookiecutter.git_base_url.split('/')[-1] }}-{{ cookiecutter.repo_name }}{% endif %}/test)](https://jenkins.indigo-datacloud.eu/job/Pipeline-as-code/job/DEEP-OC-org/job/{% if cookiecutter.git_base_url == 'https://github.com/deephdc' %}{{ cookiecutter.repo_name }}{% else -%}UC-{{ cookiecutter.git_base_url.split('/')[-1] }}-{{ cookiecutter.repo_name }}{% endif %}/job/test)
 
 
 
